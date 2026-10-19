@@ -26,6 +26,24 @@ My projects combine **financial reasoning** with hands-on **Python analysis, mod
 - 📊 **Analytics:** Data cleaning, exploratory analysis, visualizations, and predictive modeling.
 -  **Currently expanding:** SQL-based analysis, Power BI dashboards, and reproducible finance workflows.
 -  **Career interests:** Financial Analyst, Data Analyst, Risk Analyst, Business Analyst, and FP&A roles.
+## 📊 Project Spotlight — Credit Card Default Risk Analysis
+
+**Finance × Data Analytics | Python • Machine Learning • Credit Risk**
+
+Developed and evaluated credit default prediction models using a simulated dataset of 1,500 credit-card accounts.
+
+| Key Result | Value |
+|---|---:|
+| Random Forest ROC-AUC | **0.641** |
+| Logistic Regression ROC-AUC | **0.472** |
+| Test Accounts | **450** |
+| Simulated Expected Profit | **$838,552.16** |
+
+**Business Insight:** Random Forest outperformed Logistic Regression, although its predictive discrimination remained modest. The simulated 21% approval threshold approved all test accounts, highlighting limitations of the simplified optimization model.
+
+[🔎 Explore My Complete Credit Risk Analysis](https://github.com/notregularjolpai/Credit-Card-Default-Risk-Analysis)
+
+---
 
 ##  Featured projects
 
