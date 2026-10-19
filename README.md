@@ -16,7 +16,7 @@ I bring together financial analysis and practical data skills to turn complex in
 
 ---
 
-## 👨‍💻 About me
+##  About me
 
 I'm a student focused on **Finance and Data Analytics**, with interests in corporate financial performance, equity research, credit risk, and business intelligence.
 
@@ -24,10 +24,10 @@ My projects combine **financial reasoning** with hands-on **Python analysis, mod
 
 - 📈 **Finance:** Financial statement analysis, financial ratios, equity research, profitability, and risk.
 - 📊 **Analytics:** Data cleaning, exploratory analysis, visualizations, and predictive modeling.
-- 🧠 **Currently expanding:** SQL-based analysis, Power BI dashboards, and reproducible finance workflows.
-- 🎯 **Career interests:** Financial Analyst, Data Analyst, Risk Analyst, Business Analyst, and FP&A roles.
+-  **Currently expanding:** SQL-based analysis, Power BI dashboards, and reproducible finance workflows.
+-  **Career interests:** Financial Analyst, Data Analyst, Risk Analyst, Business Analyst, and FP&A roles.
 
-## 🚀 Featured projects
+##  Featured projects
 
 | Project | What it demonstrates | Explore |
 |:--|:--|:--|
@@ -61,7 +61,7 @@ SQL · Power BI · Interactive dashboards
 4. **Explain the findings** — Turn calculations into understandable insights and limitations.
 5. **Make it reproducible** — Share methods, files, and instructions whenever possible.
 
-## 🤝 Connect
+##  Connect
 
 I'm interested in learning opportunities, internships, and conversations about finance, analytics, and practical business problem-solving.
 
@@ -79,12 +79,12 @@ I'm interested in learning opportunities, internships, and conversations about f
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
