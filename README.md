@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="Ashraful Enam — Finance and Data Analytics" width="100%" />
 
-# Hi, I'm Ashraful Enam 👋
+# Hi
 
 **Finance & Data Analytics Student | Equity Research • Credit Risk • Data-Driven Decision Making**
 
