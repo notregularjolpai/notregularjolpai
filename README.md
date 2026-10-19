@@ -42,6 +42,7 @@ Developed and evaluated credit default prediction models using a simulated datas
 **Business Insight:** Random Forest outperformed Logistic Regression, although its predictive discrimination remained modest. The simulated 21% approval threshold approved all test accounts, highlighting limitations of the simplified optimization model.
 
 [🔎 Explore My Complete Credit Risk Analysis](https://github.com/notregularjolpai/Credit-Card-Default-Risk-Analysis)
+[📦 View Official Release — v1.0.0](https://github.com/notregularjolpai/Credit-Card-Default-Risk-Analysis/releases/tag/v1.0.0)
 
 ---
 
