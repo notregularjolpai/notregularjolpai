@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Ashraful Enam - Finance and Data Analytics, Research, Modeling, Insights">
+ <defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#07162A"/><stop offset="0.55" stop-color="#102540"/><stop offset="1" stop-color="#073C47"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#56D8CE"/><stop offset="1" stop-color="#6FA8FF"/></linearGradient>
+  <linearGradient id="bars" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#5AD7CC" stop-opacity="0.88"/><stop offset="1" stop-color="#1E5686" stop-opacity="0.26"/></linearGradient>
+  <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" stroke="#99CAFF" stroke-opacity=".07" fill="none"/></pattern>
+ </defs>
+ <rect x="0" y="0" width="1280" height="320" rx="20" fill="url(#bg)"/>
+ <rect x="0" y="0" width="1280" height="320" rx="20" fill="url(#grid)"/>
+ <path d="M0 281 Q340 222 580 294 T1280 262" stroke="#5DD5D1" opacity=".18" fill="none" stroke-width="2"/>
+ <rect x="56" y="56" rx="12" width="166" height="30" fill="#28515C" fill-opacity=".6" stroke="#58CFC6" stroke-opacity=".45"/>
+ <text x="76" y="76" fill="#9AF1E5" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="1.4">FINANCE × DATA</text>
+ <text x="56" y="151" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="bold" fill="#F4F8FF">ASHRAFUL ENAM</text>
+ <rect x="57" y="169" width="278" height="4" rx="2" fill="url(#accent)"/>
+ <text x="56" y="215" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#B6D7EA">Financial Analysis  •  Risk Modeling  •  Insights</text>
+ <text x="56" y="257" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#7DDCD9">Where numbers become better decisions.</text>
+ <g opacity=".80" stroke="#7DAFCB" stroke-opacity=".2" stroke-width="1">
+  <path d="M769 254H1228"/><path d="M769 207H1228"/><path d="M769 160H1228"/><path d="M769 113H1228"/>
+ </g>
+ <g fill="url(#bars)">
+  <rect x="793" y="195" width="34" height="59" rx="5"/><rect x="851" y="168" width="34" height="86" rx="5"/><rect x="909" y="179" width="34" height="75" rx="5"/>
+  <rect x="967" y="129" width="34" height="125" rx="5"/><rect x="1025" y="143" width="34" height="111" rx="5"/><rect x="1083" y="106" width="34" height="148" rx="5"/><rect x="1141" y="74" width="34" height="180" rx="5"/>
+ </g>
+ <polyline points="810,194 868,166 926,181 984,122 1042,137 1100,100 1158,68 1210,84" stroke="#93F7DC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <g fill="#BFFFF1"><circle cx="984" cy="122" r="5"/><circle cx="1158" cy="68" r="6"/></g>
+ <text x="783" y="286" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#A2B7CE">RESEARCH  /  MODELING  /  INSIGHTS</text>
+</svg>
