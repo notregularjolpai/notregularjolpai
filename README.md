@@ -26,7 +26,7 @@ My projects combine **financial reasoning** with hands-on **Python analysis, mod
 - 📊 **Analytics:** Data cleaning, exploratory analysis, visualizations, and predictive modeling.
 -  **Currently expanding:** SQL-based analysis, Power BI dashboards, and reproducible finance workflows.
 -  **Career interests:** Financial Analyst, Data Analyst, Risk Analyst, Business Analyst, and FP&A roles.
-## 📊 Project Spotlight — Credit Card Default Risk Analysis
+##  Project Spotlight — Credit Card Default Risk Analysis
 
 **Finance × Data Analytics | Python • Machine Learning • Credit Risk**
 
