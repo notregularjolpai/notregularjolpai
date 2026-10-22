@@ -25,7 +25,7 @@ My projects combine **financial reasoning** with hands-on **Python analysis, mod
 - 📈 **Finance:** Financial statement analysis, financial ratios, equity research, profitability, and risk.
 - 📊 **Analytics:** Data cleaning, exploratory analysis, visualizations, and predictive modeling.
 -  **Currently expanding:** SQL-based analysis, Power BI dashboards, and reproducible finance workflows.
-## 📈 Project Spotlight — NYSE Market Pulse
+## Project Spotlight — NYSE Market Pulse
 
 **Finance × Data Analytics | Python • Streamlit • Equity Research • Market Risk**
 
