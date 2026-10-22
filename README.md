@@ -50,7 +50,7 @@ Developed and evaluated credit default prediction models using a simulated datas
 
 | Project | What it demonstrates | Explore |
 |:--|:--|:--|
-| **NYSE Market Pulse — Market Performance & Risk Analytics** | Python research pipeline and Streamlit dashboard comparing 11 curated NYSE stocks across market sectors with SPY. Includes volatility, returns, drawdowns, correlation, a synthetic offline demo, and automated tests. | [View project](https://github.com/notregularjolpai/NYSE-Market-Pulse-Analysis) |
+| **NYSE Market Pulse — Market Performance & Risk Analytics** | Live Streamlit dashboard and verified historical research comparing 11 selected NYSE stocks with SPY. Python analytics, risk metrics, interactive charts, and automated tests. | **[Live dashboard](https://nyse-market-pulse-analysis-me.streamlit.app/)** · [GitHub repository](https://github.com/notregularjolpai/NYSE-Market-Pulse-Analysis) |
 | **Credit Card Default Risk Analysis** | Python notebook using logistic regression, random forests, expected-loss modeling, and credit approval threshold simulations on **simulated** data. | [View project](https://github.com/notregularjolpai/Credit-Card-Default-Risk-Analysis) |
 | **Microsoft Equity & Financial Statement Research** | Public-company analysis presented through ratio analysis, trend analysis, profitability, liquidity, leverage, and investment-oriented commentary. | [View project](https://github.com/notregularjolpai/Microsoft-Equity-Financial-Statement-Report-) |
 | **Finance & Data Analytics Portfolio** | Personal portfolio website bringing together finance, technical skills, and project presentations. | [View website code](https://github.com/notregularjolpai/ashraful-portfolio) |
