@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Ashraful Enam — Finance and Data Analytics" width="100%" />
+<img src="mountain-banner.jpg" alt="Ashraful Enam — Finance and Data Analytics" width="100%" />
 
 # Hi
 
