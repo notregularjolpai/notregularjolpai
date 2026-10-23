@@ -2,7 +2,7 @@
 
 <img src="mountain-banner.jpg" alt="Ashraful Enam — Finance and Data Analytics" width="100%" />
 
-# Hi
+#
 
 **Finance & Data Analytics Student | Equity Research • Credit Risk • Data-Driven Decision Making**
 
